@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://localhost:8000/index.html</loc>
+        <loc>https://seo-project-jet.vercel.app/</loc>
     </url>
 
     <url>
-        <loc>http://localhost:8000/properties.html</loc>
-    </url>
-    <url>
-        <loc>http://localhost:8000/2bhk-noida.html</loc>
-    </url>
-    <url>
-        <loc>http://localhost:8000/blog.html</loc>
+        <loc>https://seo-project-jet.vercel.app/properties.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:8000/about.html</loc>
+        <loc>https://seo-project-jet.vercel.app/2bhk-noida.html</loc>
+    </url>
+
+    <url>
+        <loc>https://seo-project-jet.vercel.app/blog.html</loc>
+    </url>
+
+    <url>
+        <loc>https://seo-project-jet.vercel.app/about.html</loc>
     </url>
 
 </urlset>
